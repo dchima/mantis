@@ -1,2 +1,2 @@
-# miantis
+# mantis
 eternal backend challenge
